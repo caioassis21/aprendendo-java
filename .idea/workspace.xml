@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42a53eee-c067-4db6-b623-7daa5df86b06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AprendendoJava.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2z0W7F7ZUhl70U5BkRoHzmuaLJN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aumento.executor": "Run",
+    "Application.Circulo.executor": "Run",
+    "Application.Consumo.executor": "Run",
+    "Application.Coordenadas.executor": "Run",
+    "Application.Dardo.executor": "Run",
+    "Application.DesafioImposto.executor": "Run",
+    "Application.Duracao.executor": "Run",
+    "Application.EstruturaFor.executor": "Run",
+    "Application.ExemploWhile.executor": "Run",
+    "Application.Glicose.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Idades.executor": "Run",
+    "Application.Lanchonete.executor": "Run",
+    "Application.Medidas.executor": "Run",
+    "Application.MenorDeTres.executor": "Run",
+    "Application.Multiplos.executor": "Run",
+    "Application.Notas.executor": "Run",
+    "Application.Operador.executor": "Run",
+    "Application.Pagamento.executor": "Run",
+    "Application.Retangulo.executor": "Run",
+    "Application.Soma.executor": "Run",
+    "Application.Temperatura.executor": "Run",
+    "Application.TempoDeJogo.executor": "Run",
+    "Application.Terreno.executor": "Run",
+    "Application.Troco.executor": "Run",
+    "Application.TrocoVerificado.executor": "Run",
+    "Application.baskara.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DesafioImposto">
+    <configuration name="Aumento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturacondicional.Aumento" />
+      <module name="AprendendoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturacondicional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Coordenadas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturacondicional.Coordenadas" />
+      <module name="AprendendoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturacondicional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioImposto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.DesafioImposto" />
+      <module name="AprendendoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multiplos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturacondicional.Multiplos" />
+      <module name="AprendendoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturacondicional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TempoDeJogo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturacondicional.TempoDeJogo" />
+      <module name="AprendendoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturacondicional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DesafioImposto" />
+        <item itemvalue="Application.Coordenadas" />
+        <item itemvalue="Application.TempoDeJogo" />
+        <item itemvalue="Application.Aumento" />
+        <item itemvalue="Application.Multiplos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42a53eee-c067-4db6-b623-7daa5df86b06" name="Changes" comment="" />
+      <created>1750868307446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750868307446</updated>
+    </task>
+    <servers />
+  </component>
+</project>
