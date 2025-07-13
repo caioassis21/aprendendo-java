@@ -14,6 +14,7 @@ public class Combustivel {
         int quantidadeGasolina = 0;
         int quantidadeDiesel = 0;
 
+
         System.out.println("1.Álcool 2.Gasolina 3.Diesel 4.Fim)");
 
         System.out.println("Informe um codigo (1, 2, 3) ou 4 para parar: ");

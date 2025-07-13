@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42a53eee-c067-4db6-b623-7daa5df86b06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AprendendoJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturarepeticao/Combustivel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturarepeticao/Combustivel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,46 +35,65 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Aumento.executor": "Run",
+    "Application.BEE1059.executor": "Run",
     "Application.Circulo.executor": "Run",
+    "Application.Combustivel.executor": "Run",
     "Application.Consumo.executor": "Run",
     "Application.Coordenadas.executor": "Run",
+    "Application.Crescente.executor": "Run",
     "Application.Dardo.executor": "Run",
+    "Application.DentroFora.executor": "Run",
     "Application.DesafioImposto.executor": "Run",
+    "Application.Divisao.executor": "Run",
     "Application.Duracao.executor": "Run",
     "Application.EstruturaFor.executor": "Run",
     "Application.ExemploWhile.executor": "Run",
+    "Application.Experiencia.executor": "Run",
+    "Application.Fatorial.executor": "Run",
     "Application.Glicose.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Idades.executor": "Run",
     "Application.Lanchonete.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MediaIdades.executor": "Run",
+    "Application.MediaPonderada.executor": "Run",
     "Application.Medidas.executor": "Run",
     "Application.MenorDeTres.executor": "Run",
     "Application.Multiplos.executor": "Run",
     "Application.Notas.executor": "Run",
     "Application.Operador.executor": "Run",
     "Application.Pagamento.executor": "Run",
+    "Application.ParImpar.executor": "Run",
+    "Application.ParesConsecutivos.executor": "Run",
+    "Application.Quadrante.executor": "Run",
     "Application.Retangulo.executor": "Run",
+    "Application.SenhaFixa.executor": "Run",
+    "Application.SequenciaImpares.executor": "Run",
     "Application.Soma.executor": "Run",
+    "Application.SomaImpares.executor": "Run",
+    "Application.Tabuada.executor": "Run",
     "Application.Temperatura.executor": "Run",
     "Application.TempoDeJogo.executor": "Run",
     "Application.Terreno.executor": "Run",
     "Application.Troco.executor": "Run",
     "Application.TrocoVerificado.executor": "Run",
+    "Application.ValidacaoDeNota.executor": "Run",
     "Application.baskara.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/caioe/IdeaProjects/AprendendoJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DesafioImposto">
-    <configuration name="Aumento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturacondicional.Aumento" />
+  <component name="RunManager" selected="Application.Experiencia">
+    <configuration name="Divisao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturarepeticao.Divisao" />
       <module name="AprendendoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturacondicional.*" />
+          <option name="PATTERN" value="estruturarepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Coordenadas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturacondicional.Coordenadas" />
+    <configuration name="Experiencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturarepeticao.Experiencia" />
       <module name="AprendendoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturacondicional.*" />
+          <option name="PATTERN" value="estruturarepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioImposto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafios.DesafioImposto" />
+    <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturarepeticao.Fatorial" />
       <module name="AprendendoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafios.*" />
+          <option name="PATTERN" value="estruturarepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturacondicional.Multiplos" />
+    <configuration name="MediaPonderada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturarepeticao.MediaPonderada" />
       <module name="AprendendoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturacondicional.*" />
+          <option name="PATTERN" value="estruturarepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempoDeJogo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturacondicional.TempoDeJogo" />
+    <configuration name="ParImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturarepeticao.ParImpar" />
       <module name="AprendendoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturacondicional.*" />
+          <option name="PATTERN" value="estruturarepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DesafioImposto" />
-        <item itemvalue="Application.Coordenadas" />
-        <item itemvalue="Application.TempoDeJogo" />
-        <item itemvalue="Application.Aumento" />
-        <item itemvalue="Application.Multiplos" />
+        <item itemvalue="Application.Experiencia" />
+        <item itemvalue="Application.Fatorial" />
+        <item itemvalue="Application.Divisao" />
+        <item itemvalue="Application.MediaPonderada" />
+        <item itemvalue="Application.ParImpar" />
       </list>
     </recent_temporary>
   </component>
